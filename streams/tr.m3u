@@ -1,34 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4UTV.tr",4U TV (720p)
+#EXTINF:-1 tvg-id="4UTV.tr",4U TV
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="24TV.tr",24 TV
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
-#EXTINF:-1 tvg-id="24TV.tr",24 TV (1080p)
 http://185.234.111.229:8000/play/a059
-#EXTINF:-1 tvg-id="24TV.tr" http-user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",24 TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="24TV.tr",24 TV (576p)
-http://185.234.111.229:8000/play/a056
-#EXTINF:-1 tvg-id="360.tr",360 (1080p)
+#EXTINF:-1 tvg-id="360.tr",360
 http://185.234.111.229:8000/play/a05a
-#EXTINF:-1 tvg-id="360.tr",360 (576p)
-http://185.234.111.229:8000/play/a057
-#EXTINF:-1 tvg-id="360.tr",360 TV (720p) [Not 24/7]
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr",A2TV
-https://c.fulltvizle.com/a2/index.m3u8
-#EXTINF:-1 tvg-id="A2TV.tr",A2TV
-https://canlitvulusal.xyz/live/a2tv/index.m3u8
-#EXTINF:-1 tvg-id="A2TV.tr",A2TV
-https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-id="A2TV.tr",A2TV (1080p)
 http://185.234.111.229:8000/play/a01m
 #EXTINF:-1 tvg-id="AHaber.tr",A Haber
-https://c.fulltvizle.com/ahaber/index.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr",A Haber
-https://canlitvulusal.xyz/live/ahaber/index.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr",A Haber (576p)
 http://185.234.111.229:8000/play/a019
 #EXTINF:-1 tvg-id="ANews.tr",A News (1080p)
 http://185.234.111.229:8000/play/a01k
